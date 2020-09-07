@@ -5,6 +5,9 @@ New Coding work for August
     -renamed site to Taino.
 
 8/31/20 reviewed the colors of the site.
-    -    
+    -changed colors.
+9/6/20 reviewed CSS
+    -updated some CSS properties.    
+
 
 
