@@ -7,7 +7,14 @@ New Coding work for August
 8/31/20 reviewed the colors of the site.
     -changed colors.
 9/6/20 reviewed CSS
-    -updated some CSS properties.    
+    -updated some CSS properties.
+9/7/20 simple updates
+    - thought about the purpose of the site again.
+    - what is the purpose of the page?
+    - what skills do I want to showcase?
+       
+
+        
 
 
 
