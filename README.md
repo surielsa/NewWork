@@ -13,7 +13,9 @@ New Coding work for August
     - what skills do I want to showcase?
 9/9/20 Adding more than changing words
     - I need to resize the picture to fit in the  index page.
-    - write a real about for page.      
+        - UPDATED IMAGE SIZE
+    - write a real about for page.    
+    -remember to add a favicon to site.  
 
         
 
