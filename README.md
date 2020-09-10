@@ -10,9 +10,10 @@ New Coding work for August
     -updated some CSS properties.
 9/7/20 simple updates
     - thought about the purpose of the site again.
-    - what is the purpose of the page?
     - what skills do I want to showcase?
-       
+9/9/20 Adding more than changing words
+    - I need to resize the picture to fit in the  index page.
+    - write a real about for page.      
 
         
 
