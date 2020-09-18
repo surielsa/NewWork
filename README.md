@@ -16,6 +16,10 @@ New Coding work for August
         - UPDATED IMAGE SIZE
     - write a real about for page.    
     -remember to add a favicon to site.  
+9/17/20 New Updates- making up for slacking.
+    - looking up favicon options
+    - more structured content for the page
+       
 
         
 
